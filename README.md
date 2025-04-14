@@ -1,1 +1,2 @@
 # SonarQube Practice
+## Use SonarCloud
